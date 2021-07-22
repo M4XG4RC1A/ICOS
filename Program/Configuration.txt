@@ -1,0 +1,30 @@
+Flanges
+Names
+Principal
+Comida
+Bebida
+Acciones
+Lugares
+Objetos
+Personas
+
+Colores
+orange
+black
+white
+green
+blue
+red
+white
+
+Backgroun Words Text Color
+white
+
+Text Words Color
+black
+
+Sentence Color part
+black
+
+System
+PC
